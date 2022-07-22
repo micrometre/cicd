@@ -1,0 +1,9 @@
+{
+  "name": "cicd",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/micrometre/cicd",
+  "author": "henok",
+  "license": "MIT",
+  "private": false
+}
